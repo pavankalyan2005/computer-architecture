@@ -1,0 +1,6 @@
+Lda 3000
+cma
+sta 3001
+inc 2
+sta 3002
+hlt
